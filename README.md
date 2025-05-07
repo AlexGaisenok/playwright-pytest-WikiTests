@@ -44,7 +44,7 @@ pip install -r requirements.txt
 playwright install
 ```
 
-4. **Create a .env file in the project root and add your Wikipedia login credentials:
+4. **Create a .env file in the project root and add your Wikipedia login credentials:**
 
 
 WIKIPEDIA_USERNAME=your_username
